@@ -9,7 +9,7 @@
   "author": "Aashish Shrestha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "mongoose": "^5.7.6",
